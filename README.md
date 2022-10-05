@@ -1,2 +1,2 @@
-# MineField_Tutorial_Python
-A MineField Game in Python Tkinter
+# MineField Tutorial Python
+Yet Another MineField Game in Python Tkinter
